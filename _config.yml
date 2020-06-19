@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: My Website
+title: My portfolio
 
 # Short description of your site
 description: This is where my portfolio projects will be displayed.
@@ -42,7 +42,7 @@ social-network-links:
   facebook: awidener21
   github: awidener21
   twitter: awidener21
-  rss: true
+  rss: false
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -81,9 +81,9 @@ excerpt_length: 50
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#1a1a7a"
-navbar-text-col: "#820909"
-navbar-border-col: "#EAEAEA"
-page-col: "#FFFFFF"
+navbar-text-col: "#ffffff"
+navbar-border-col: "#000000"
+page-col: "#877c76"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
