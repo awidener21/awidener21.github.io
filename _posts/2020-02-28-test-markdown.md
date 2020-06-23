@@ -26,7 +26,7 @@ Here's a useless table:
 
 How about a yummy crepe?
 
-![Crepe](wins-by-team.png)
+![Crepe](/wins-by-team.png)
 
 It can also be centered!
 
