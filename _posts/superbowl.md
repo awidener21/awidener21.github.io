@@ -8,4 +8,4 @@ tags: [test]
 comments: true
 ---
 
-![superbowl](wins-by-team.png)
+![superbowl](/wins-by-team.png)
