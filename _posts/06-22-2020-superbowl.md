@@ -8,4 +8,6 @@ tags: [test]
 comments: true
 ---
 
+New England Patriots and Pitsburg Steelers both have 6 wins each.
+
 ![superbowl](/wins-by-team.png)
